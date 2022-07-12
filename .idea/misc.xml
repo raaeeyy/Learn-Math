@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/backspace.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/blue_bg.xml" value="0.1685" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/circle_bg.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/equal_bg.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/green_bg.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/green_bg10.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/header_bg.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/mainmenu_footer_bg.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/red_bg.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/white_bg.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/white_bg_stroke.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/white_bg_stroke2.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/font/font.xml" value="0.2546875" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_calculator.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_login.xml" value="0.3421875" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_main.xml" value="0.5401002506265664" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_quiz.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_quiz_game.xml" value="0.2" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_quiz_results.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout/activity_calculator.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout/activity_main_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout/activity_quiz.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout/activity_quiz_game.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout/activity_quiz_results.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
