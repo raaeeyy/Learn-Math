@@ -8,4 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="grey">#f5f5f5</color>
+    <color name="orange">#e9ae8c</color>
+    <color name="purple1">#5b5d8f</color>
+    <color name="purple2">#8488b7</color>
+    <color name="purple3">#b5b9d9</color>
+    <color name="purple4">#efeafe</color>
+    <color name="lightYellow">#eed9bc</color>
 </resources>

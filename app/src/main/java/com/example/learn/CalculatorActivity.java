@@ -40,7 +40,7 @@ public class CalculatorActivity extends AppCompatActivity {
         display.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if ("Enter in a value".equals(display.getText().toString())){
+                if (getString(R.string.display).equals(display.getText().toString())){
                     display.setText("");
                 }
             }

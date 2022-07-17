@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#70afce"
+    android:background="@color/purple4"
     tools:context=".CalculatorActivity">
 
     <TableLayout
@@ -346,7 +346,7 @@
         android:autofillHints="null"
         android:inputType="none"
         android:background="@null"
-        android:textColor="#ffffff"
+        android:textColor="@color/purple2"
         android:fontFamily="@font/poppins_regular"
         android:text="@string/display"
         android:textAlignment="textEnd"

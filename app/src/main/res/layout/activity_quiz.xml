@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#0d1f6bb8"
+    android:background="@color/purple4"
     tools:context=".QuizActivity">
 
     <RelativeLayout
         android:id="@+id/layout3"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:background="#3a7b99"
+        android:background="@color/purple1"
         tools:ignore="MissingConstraints">
 
         <ImageView
@@ -29,9 +29,10 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:text="Selected Topic Name"
+            android:fontFamily="@font/poppins_bold"
             android:textColor="@color/white"
             android:textSize="18sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
         <LinearLayout
             android:layout_width="wrap_content"
@@ -53,9 +54,10 @@
             android:id="@+id/timer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
             android:layout_marginStart="360dp"
+            android:layout_marginTop="20dp"
             android:text="00:59"
+            android:fontFamily="@font/poppins_regular"
             android:textColor="#faa72f" />
 
     </RelativeLayout>
@@ -65,7 +67,7 @@
         android:layout_height="30dp"
         android:id="@+id/questions"
         android:layout_gravity="center"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="35dp"
         android:background="@drawable/white_bg"
         android:elevation="1dp"
         android:gravity="center"
@@ -80,13 +82,14 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
-        android:layout_marginTop="-20dp"
-        android:background="@drawable/blue_bg"
+        android:layout_marginTop="-5dp"
+        android:background="@drawable/purple1_bg"
         android:gravity="center"
         android:minHeight="100dp"
         android:text="questionnnn"
+        android:fontFamily="@font/poppins_bold"
         android:padding="20dp"
-        android:textColor="@color/white"
+        android:textColor="@color/purple4"
         android:textSize="20sp"/>
 
     <androidx.appcompat.widget.AppCompatButton
@@ -97,9 +100,10 @@
         android:layout_marginTop="60dp"
         android:layout_marginEnd="20dp"
         android:text="option 1"
+        android:fontFamily="@font/poppins_regular"
         android:textSize="20sp"
         android:textAllCaps="false"
-        android:textColor="#3a7b99"
+        android:textColor="@color/purple1"
         android:background="@drawable/white_bg_stroke2"/>
 
     <androidx.appcompat.widget.AppCompatButton
@@ -110,9 +114,10 @@
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
         android:text="option 2"
+        android:fontFamily="@font/poppins_regular"
         android:textSize="20sp"
         android:textAllCaps="false"
-        android:textColor="#3a7b99"
+        android:textColor="@color/purple1"
         android:background="@drawable/white_bg_stroke2"/>
 
     <androidx.appcompat.widget.AppCompatButton
@@ -123,9 +128,10 @@
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
         android:text="option 3"
+        android:fontFamily="@font/poppins_regular"
         android:textSize="20sp"
         android:textAllCaps="false"
-        android:textColor="#3a7b99"
+        android:textColor="@color/purple1"
         android:background="@drawable/white_bg_stroke2"/>
 
     <androidx.appcompat.widget.AppCompatButton
@@ -136,9 +142,10 @@
         android:layout_marginTop="50dp"
         android:layout_marginEnd="20dp"
         android:text="Next"
+        android:fontFamily="@font/poppins_bold"
         android:textSize="20sp"
         android:textAllCaps="false"
         android:textColor="@color/white"
-        android:background="@drawable/green_bg"/>
+        android:background="@drawable/orange_bg"/>
 
 </LinearLayout>

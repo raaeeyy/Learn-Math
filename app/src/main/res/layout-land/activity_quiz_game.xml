@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/purple4"
     tools:context=".QuizGameActivity">
 
 
@@ -12,7 +13,7 @@
         android:id="@+id/layout3"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="#3a7b99"
+        android:background="@color/purple1"
         tools:ignore="MissingConstraints">
 
         <ImageView
@@ -29,6 +30,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:text="Math Quiz Game"
+            android:fontFamily="@font/poppins_bold"
             android:textColor="@color/white"
             android:textSize="18sp"
             android:textStyle="bold" />
@@ -55,7 +57,8 @@
         android:layout_marginTop="-50dp"
         android:layout_marginEnd="20dp"
         android:text="Choose Topic"
-        android:textColor="#3a7b99"
+        android:fontFamily="@font/poppins_regular"
+        android:textColor="@color/purple1"
         android:textStyle="bold" />
 
     <LinearLayout
@@ -75,7 +78,7 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
-            android:background="@drawable/blue_bg"
+            android:background="@drawable/purple1_bg"
             android:gravity="center"
             android:orientation="vertical"
             android:padding="20dp">
@@ -90,7 +93,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="@string/addition"
-                android:textColor="@color/black"
+                android:fontFamily="@font/poppins_regular"
+                android:textColor="@color/purple4"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -102,7 +106,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
             android:layout_weight="1"
-            android:background="@drawable/blue_bg"
+            android:background="@drawable/purple1_bg"
             android:gravity="center"
             android:orientation="vertical"
             android:padding="20dp">
@@ -117,7 +121,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="@string/times"
-                android:textColor="@color/black"
+                android:fontFamily="@font/poppins_regular"
+                android:textColor="@color/purple4"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -144,7 +149,7 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="5dp"
             android:layout_weight="1"
-            android:background="@drawable/blue_bg"
+            android:background="@drawable/purple1_bg"
             android:gravity="center"
             android:orientation="vertical"
             android:padding="20dp">
@@ -159,7 +164,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="@string/division"
-                android:textColor="@color/black"
+                android:fontFamily="@font/poppins_regular"
+                android:textColor="@color/purple4"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -171,7 +177,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="5dp"
             android:layout_weight="1"
-            android:background="@drawable/blue_bg"
+            android:background="@drawable/purple1_bg"
             android:gravity="center"
             android:orientation="vertical"
             android:padding="20dp">
@@ -186,7 +192,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="@string/minus"
-                android:textColor="@color/black"
+                android:fontFamily="@font/poppins_regular"
+                android:textColor="@color/purple4"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -204,8 +211,9 @@
         android:layout_marginStart="190dp"
         android:layout_marginTop="36dp"
         android:layout_marginEnd="171dp"
-        android:background="@drawable/green_bg"
+        android:background="@drawable/orange_bg"
         android:text="@string/start"
+        android:fontFamily="@font/poppins_bold"
         android:textColor="@color/white"
         android:textSize="16sp"
         android:textStyle="bold">

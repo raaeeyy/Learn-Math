@@ -15,17 +15,18 @@
         android:layout_marginStart="50dp"
         android:layout_marginTop="30dp"
         android:layout_marginEnd="50dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginBottom="1dp"
+        android:fontFamily="@font/poppins_bold"
         android:gravity="center"
         android:text="@string/sign_in"
-        android:textColor="@color/white"
+        android:textColor="@color/orange"
         android:textSize="30sp"
         android:textStyle="bold" />
 
     <EditText
         android:id="@+id/username"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="53dp"
         android:layout_below="@+id/signIn"
         android:layout_marginStart="100dp"
         android:layout_marginEnd="100dp"
@@ -34,16 +35,17 @@
         android:background="#30ffffff"
         android:drawableStart="@drawable/ic_baseline_person_24"
         android:drawablePadding="20dp"
+        android:fontFamily="@font/poppins_regular"
         android:hint="@string/username"
-        android:padding="15dp"
+        android:padding="10dp"
         android:textColor="@color/white"
-        android:textColorHint="@color/white"
+        android:textColorHint="@color/purple4"
         android:textSize="18sp" />
 
     <EditText
         android:id="@+id/password"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="53dp"
         android:layout_below="@+id/username"
         android:layout_marginStart="100dp"
         android:layout_marginTop="10dp"
@@ -52,11 +54,12 @@
         android:background="#30ffffff"
         android:drawableStart="@drawable/ic_baseline_lock_24"
         android:drawablePadding="20dp"
+        android:fontFamily="@font/poppins_regular"
         android:hint="@string/password"
         android:inputType="textPassword"
-        android:padding="15dp"
+        android:padding="10dp"
         android:textColor="@color/white"
-        android:textColorHint="@color/white"
+        android:textColorHint="@color/purple4"
         android:textSize="18sp" />
 
     <com.google.android.material.button.MaterialButton
@@ -69,9 +72,10 @@
         android:layout_marginTop="5dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="10dp"
-        android:backgroundTint="#62bd69"
+        android:backgroundTint="@color/orange"
+        android:fontFamily="@font/poppins_bold"
         android:text="@string/login"
-        android:textSize="13sp"/>
+        android:textSize="13sp" />
 
     <TextView
         android:id="@+id/forgotPass"
@@ -83,16 +87,19 @@
         android:layout_marginTop="3dp"
         android:layout_marginEnd="4dp"
         android:layout_marginBottom="4dp"
+        android:fontFamily="@font/poppins_regular"
         android:text="@string/forgot_password"
-        android:textColor="@color/white" />
+        android:textColor="@color/purple4" />
 
     <TextView
+        android:id="@+id/others"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/others"
         android:layout_above="@id/social"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/poppins_regular"
         android:text="@string/sign_in_with"
-        android:layout_centerHorizontal="true"/>
+        android:textColor="@color/purple1" />
 
     <LinearLayout
         android:layout_width="wrap_content"

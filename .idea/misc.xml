@@ -9,16 +9,21 @@
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/equal_bg.xml" value="0.1" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/green_bg.xml" value="0.1" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/green_bg10.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/grey_bg.xml" value="0.2055" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/header_bg.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2055" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/mainmenu_footer_bg.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/orange_bg.xml" value="0.2055" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/purple1_bg.xml" value="0.2055" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/purple_bg.xml" value="0.2055" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/red_bg.xml" value="0.1" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/white_bg.xml" value="0.1" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/white_bg_stroke.xml" value="0.1" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/drawable/white_bg_stroke2.xml" value="0.1" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/font/font.xml" value="0.2546875" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_calculator.xml" value="0.22" />
-        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_login.xml" value="0.3421875" />
-        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_main.xml" value="0.5401002506265664" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_main_menu.xml" value="0.2" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_quiz.xml" value="0.22" />
         <entry key="..\:/Users/USER/Learn2/app/src/main/res/layout-land/activity_quiz_game.xml" value="0.2" />
